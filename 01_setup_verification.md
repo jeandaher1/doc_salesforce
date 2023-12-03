@@ -3,23 +3,19 @@
 </p>
 
 
+#### sf cli installation    
+[salesforce cli download](https://developer.salesforce.com/tools/salesforcecli)
 
-## sf cli installation    
-```
-[https://developer.salesforce.com/tools/salesforcecli](https://developer.salesforce.com/tools/salesforcecli)
-```
 
 ## sf cli verification 
 ```
 sf --version
-
 sf plugins --core
 ```
 
 ## Available commands 
 ```
 sf commands
-
 sf whatsnew
 ```
 
